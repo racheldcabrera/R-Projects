@@ -6,3 +6,7 @@ Data Visualization Projects:
 3) State vaccination rates vs percent of ICU beds being used for patients with Covid: https://rpubs.com/rachelcabrera/797792
 
 
+Data Tidying and Regression:
+1) Generalized additive model: https://rpubs.com/rachelcabrera/852999
+
+
