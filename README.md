@@ -5,6 +5,4 @@ Data Visualization Projects:
 2) Vaccination rates by state: https://rpubs.com/rachelcabrera/797755
 3) State vaccination rates vs percent of ICU beds being used for patients with Covid: https://rpubs.com/rachelcabrera/797792
 
-Data Cleaning Project:
 
-Machine Learning Projects:
